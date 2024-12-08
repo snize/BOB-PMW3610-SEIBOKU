@@ -1,6 +1,6 @@
 # PMW3610 breakout board - SEIBOKU（青墨）
 
-ブレイクアウトボード自体はBoothから購入もできる予定です https://bulblub.booth.pm/
+Boothから購入もできます https://booth.pm/ja/items/6363907
 
 ## 特徴
 

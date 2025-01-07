@@ -1,6 +1,8 @@
 # PMW3610 breakout board - SEIBOKU（青墨）
 
-Boothから購入もできます https://booth.pm/ja/items/6363907
+Boothから購入もできます： https://booth.pm/ja/items/6363907
+
+サンプル用のZMKファームウェア： https://github.com/snize/zmk-seiboku-example
 
 ## 特徴
 

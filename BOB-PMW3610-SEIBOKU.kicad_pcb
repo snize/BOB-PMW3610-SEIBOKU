@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "PMW3610-SUDU Breakout")
-		(date "2024-11-12")
-		(rev "1.1")
+		(date "2025-01-27")
+		(rev "1.2")
 		(company "bulblub")
 	)
 	(layers

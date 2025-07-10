@@ -54,4 +54,5 @@ Original design by snize.
 
 DiscussionsやSNSでお知らせください！
 
+- [prtprt](https://github.com/snize/BOB-PMW3610-SEIBOKU/discussions/4) by [sasadango-Jpn](https://github.com/sasadango-Jpn)
 - [無線対応プロトタイプ](https://github.com/snize/BOB-PMW3610-SEIBOKU/discussions/3) by [snize](https://x.com/snize)

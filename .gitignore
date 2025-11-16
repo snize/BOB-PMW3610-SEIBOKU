@@ -45,5 +45,6 @@ out/
 # End of https://www.toptal.com/developers/gitignore/api/kicad
 
 gui_defaults.par
-
-stencil
+production/
+fabrication-toolkit-options.json
+stencil/

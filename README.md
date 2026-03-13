@@ -50,9 +50,6 @@ Original design by snize.
 - issueなどで利用した旨を報告していただけると作者が喜びます
   - 作例にバックリンクさせていただきます
 
-## 本プロジェクトを利用した作例
+## 本プロジェクトを利用した作例や進捗
 
-DiscussionsやSNSでお知らせください！
-
-- [prtprt](https://github.com/snize/BOB-PMW3610-SEIBOKU/discussions/4) by [sasadango-Jpn](https://github.com/sasadango-Jpn)
-- [無線対応プロトタイプ](https://github.com/snize/BOB-PMW3610-SEIBOKU/discussions/3) by [snize](https://x.com/snize)
+Discussionsの [🙌Show and tell｜紹介・進捗](https://github.com/snize/BOB-PMW3610-SEIBOKU/discussions/categories/show-and-tell-%E7%B4%B9%E4%BB%8B-%E9%80%B2%E6%8D%97) でお知らせください！
